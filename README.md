@@ -21,4 +21,6 @@ Software versions used in this project:
 
 Blogs and additional documentation at - [yastack.io](https://yastack.io)
 
+Original repository for YAStack is located at https://github.com/saaras-io/yastack
+
 [Quick Start](docs/Start-here.md)
